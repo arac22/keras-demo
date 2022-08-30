@@ -1,2 +1,2 @@
 # keras-demo
-Just a play ground fro keras and Colabs
+Just a playground for Keras, AutoKeras and Colabs
